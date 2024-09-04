@@ -5,6 +5,8 @@ This repository contains code for publication under the same name: https://doi.o
 The training data and model weight are downlodable at 
 https://duke.app.box.com/folder/283406152731?s=gvhtpnq4dafa2q4zkp1mla9pxbfde3kk
 
+Please de-compress "img.tar.gz" "msk.tar.gz" into directory "img" "msks" and place the two directory under LAIPAS_Images
+
 If you find this content helpful, please consider citing
 
 @article{https://doi.org/10.1002/uog.29100,
